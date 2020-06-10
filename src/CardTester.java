@@ -15,5 +15,6 @@ public class CardTester {
         c1.setSuit("Hearts");
         System.out.println ("New suit is "+ c1.getSuit());
         //Add something else
+        //LOLOLOLOL
     }
 }
